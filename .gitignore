@@ -1,0 +1,3 @@
+# Ignorar checkpoint Jupyter
+anaconda_projects/
+.ipynb_checkpoints/
