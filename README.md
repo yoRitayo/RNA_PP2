@@ -130,7 +130,7 @@ RNA_PP2/
 Contributions are welcome! If you have suggestions for improvements or want to report issues, feel free to open an [issue](https://github.com/yoRitayo/RNA_PP2/issues) or submit a [pull request](https://github.com/yoRitayo/RNA_PP2/pulls)
 
 ## Authors
-- Elloá B. Guedes (orientadora);
+- Elloá B. Guedes (advisor);
 - Davi Aguiar Moreira;
 - Ian Garrido Reis;
 - Luiz Fernando Borges Brito;
