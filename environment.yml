@@ -2,7 +2,6 @@ name: env_rnapp2
 channels:
   - anaconda
   - conda-forge
-  - https://conda.anaconda.org/conda-forge/
   - defaults
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
@@ -224,4 +223,6 @@ dependencies:
   - zipp=3.21.0=pyhd8ed1ab_1
   - zstandard=0.23.0=py312h4389bb4_1
   - zstd=1.5.7=hbeecb71_2
-prefix: C:\Users\rhelo\.conda\envs\env_rnapp2
+  - pip:
+      - prettytable==3.16.0
+prefix: C:\Users\Samsung\anaconda3\envs\env_rnapp2
