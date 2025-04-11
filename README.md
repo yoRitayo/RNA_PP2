@@ -23,9 +23,11 @@ Este projeto tem por objetivo a execução de um treinamento mediante Aprendizad
 ## Estrutura do Projeto
 ```plaintext
 RNA_PP2/
+├── .gitignore                  # Manipulação de git para evitar conflitos de output na branch main
 ├── atividade.ipynb             # Jupyter Notebook contendo a execução da proposta de projeto
 ├── data1.txt                   # Dataset utilizado para a segunda parte do projeto
 ├── dataAll.txt                 # Dataset utilizado para a primeira parte do projeto
+├── dataHouldout.txt            # Dataset utilizado para a terceira parte do projeto
 ├── environment.yml             # Armazenamento das variáveis de ambiente virtual
 └── README.md                   # Documentação do projeto
 ```
@@ -93,9 +95,11 @@ This project aims to carry out a training process using Supervised Learning for 
 ## Project Structure
 ```plaintext
 RNA_PP2/
+├── .gitignore                  # Git handling to avoid output conflicts on the main branch
 ├── atividade.ipynb             # Jupyter Notebook containing the project implementation
 ├── data1.txt                   # Dataset used in the second part of the project
 ├── dataAll.txt                 # Dataset used in the first part of the project
+├── dataHoldout.txt             # Dataset used in the third part of the project
 ├── environment.yml             # Virtual environment configuration file
 └── README.md                   # Project documentation
 ```
